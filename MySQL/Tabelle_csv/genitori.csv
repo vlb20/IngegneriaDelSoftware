@@ -1,0 +1,5 @@
+username,password,nome,cognome,codiceFiscale,dataNascita,comuneResidenza,email,numeroCellulare,studente_figlio
+papadivinci,minollo3,Stefano,Bruno,VLIRSL80A41G964Q,1980-01-01,Pozzuoli,stefbruno@alice.it,3454738947,2
+mammadikvara,georgia26,Skyler,Beridze,VLIRSL80A41G964Q,1980-01-01,Tbilisi,skyler35@hotmail.it,3454738947,4
+genitore1,evitaperon36,Andrea,Cruz,VLIRSL80A41G964Q,1980-01-01,"Buenos Aires",evita80@yahoo.it,3454738947,6
+genitore2,malena64,Simone,Bellucci,VLIRSL80A41G964Q,1980-01-01,Roma,ninasimone@gmail.com,3454738947,8

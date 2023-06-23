@@ -1,0 +1,11 @@
+matricola,username,password,nome,cognome,codiceFiscale,dataNascita,comuneResidenza,email,numeroCellulare
+1,cris,FNS4523,Cristina,Carleo,VLIRSL80A41G964Q,2001-06-15,"Giugliano in Campania",cris@studenti.learnopolis.it,3627436428
+2,vinci,uIQP503!24V^,"Vincenzo Luigi",Bruno,VLIRSL80A41G964Q,2001-06-15,Napoli,vlb@studenti.learnopolis.it,3627436428
+3,fla,uIQP503!24V^,Flavia,"De Rosa",VLIRSL80A41G964Q,2001-06-15,Napoli,fdr@studenti.learnopolis.it,3627436428
+4,kvaradona,uIQP503!24V^,Khvicha,Kvaratskhelia,VLIRSL80A41G964Q,2001-06-15,Pozzuoli,kvara77@studenti.learnopolis.it,3627436428
+5,dilo,uIQP503!24V^,Giovanni,"Di lorenzo",VLIRSL80A41G964Q,2001-06-15,Pianura,dilo22@studenti.learnopolis.it,3627436428
+6,poli,uIQP503!24V^,Matteo,Politano,VLIRSL80A41G964Q,2001-06-15,Monteruscello,poli21@studenti.learnopolis.it,3627436428
+7,eg94,uIQP503!24V^,Erich,Gamma,VLIRSL80A41G964Q,2001-06-15,"Marano di Napoli",eg94@studenti.learnopolis.it,3627436428
+8,jv94,uIQP503!24V^,John,Vlissides,VLIRSL80A41G964Q,2001-06-15,Mugnano,jv94@studenti.learnopolis.it,3627436428
+9,rh94,uIQP503!24V^,Richard,Helm,VLIRSL80A41G964Q,2001-06-15,Casavatore,rh94@studenti.learnopolis.it,3627436428
+10,rj94,uIQP503!24V^,Ralph,Johnson,VLIRSL80A41G964Q,2001-06-15,Villaricca,rj94@studenti.learnopolis.it,3627436428

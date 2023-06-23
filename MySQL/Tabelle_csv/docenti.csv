@@ -1,0 +1,8 @@
+username,password,nome,cognome,codiceFiscale,dataNascita,comuneResidenza,email,numeroCellulare
+doc1,prova1,ersilia,viola,VLIRSL80A41G964Q,1980-01-01,Pozzuoli,ersv@learnopolis.it,3274638973
+doc2,proovaprova,giuditta,grosso,VLIRSL80A41G964Q,1980-01-01,Napoli,g.grosso@learnopolis.it,3274638973
+doc3,1234,anna,angeli,VLIRSL80A41G964Q,1980-01-01,Napoli,annaan@learnopolis.it,3274638973
+vinny,FNS1926,vincenzo,moscato,VLIRSL80A41G964Q,1980-01-01,Pozzuoli,vinnymoscato@learnopolis.it,3274638973
+doc4,*hehvb&,ivania,avolio,VLIRSL80A41G964Q,1980-01-01,Quarto,davolio@learnopolis.it,3274638973
+doc5,!edrtyu/,paola,cannada,VLIRSL80A41G964Q,1980-01-01,Monteruscello,emc2@learnopolis.it,3274638973
+doc6,^fcgv*,brunella,basso,VLIRSL80A41G964Q,1980-01-01,"Giugliano in Campania",bbasso@learnopolis.it,3274638973
